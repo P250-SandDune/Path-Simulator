@@ -1,3 +1,5 @@
+//Just a class to represent a point so I could make objects out of it
+
 public class Point {
 	private double x;
 	private double y;
